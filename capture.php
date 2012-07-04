@@ -11,7 +11,7 @@ $cutycapt_path = "/home/user/scripts/cutycapt/CutyCapt";
 
 // capture settings
 $screen = '1280x1024x24';
-$output_path = '/home/user/www/images/capture.png';
+$output_path = 'http://evolutiongolf.in/images/mypage.png';
 $url = $_GET['url']; // set it however you want
 //$url = 'http://www.yahoo.com'; // set it manually
 
